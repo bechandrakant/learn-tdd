@@ -19,39 +19,36 @@ main
   | index.html (blog website for this repo)
   | examples (Contains All TDD implementations)
     | README
-    | projects
-      | calculator
-        | README (About Project, Tech Stack, thought process and Link to repo)
-      | tic-tac-toe
-        | README (About Project, Tech Stack, thought process and Link to repo)
-    | stack
-        - README (Contains Info About Stack)
-        - C#
+    | Java
+        | README (Contains Info About Unit Testing in Java)
+        | stack
             - src
             - test
             - README (Explains thought process while doing TDD)
-        - Java
+        | queue
             - src
             - test
             - README (Explains thought process while doing TDD)
-        - Javascript
+        | projects
+          | calculator
+            | README (About Project, Tech Stack, thought process and Link to repo)
+          | tic-tac-toe
+            | README (About Project, Tech Stack, thought process and Link to repo)
+    | Javascript
+        | README (Contains Info About Unit Testing in Javascript)
+        | stack
             - src
             - test
             - README (Explains thought process while doing TDD)
-    | queue
-        - README
-        - C#
+        | queue
             - src
             - test
-            - README
-        - Java
-            - src
-            - test
-            - README
-        - Javascript
-            - src
-            - test
-            - README
+            - README (Explains thought process while doing TDD)
+        | projects
+          | calculator
+            | README (About Project, Tech Stack, thought process and Link to repo)
+          | tic-tac-toe
+            | README (About Project, Tech Stack, thought process and Link to repo)
 ```
 
 ## How to contribute?
@@ -71,7 +68,7 @@ main
   5. **(Tip)** Don't let fear of grammatical mistakes hold you back while contributing, we are humans, we accept README with grammatical mistakes, with power of community we shall improve it.
  
 ### Reach Out In Person
- - Chandrakant [LinkedIN](https://www.linkedin.com/in/bechandrakant/) [Twitter](https://twitter.com/bechandrakant) [Facebook](https://www.facebook.com/fbchandrakant/)
+ - Chandrakant  [LinkedIN](https://www.linkedin.com/in/bechandrakant/)  [Twitter](https://twitter.com/bechandrakant)  [Facebook](https://www.facebook.com/fbchandrakant/)
 
 ## License
 This repo is Licensed under [MIT License](./LICENSE) i.e this is free to use, share or modify.
